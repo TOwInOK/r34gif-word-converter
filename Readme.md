@@ -13,7 +13,7 @@ CLI tool that converts a word into a series of GIF links.
 ## Example
 - vec
   -
-    ```
+    ```sh
     ➜ ./r34gif-word-converter git
     [
         "https://rule34.xxx/counter/0.gif",
@@ -44,7 +44,7 @@ CLI tool that converts a word into a series of GIF links.
     ```
 - HTML
   -
-    ```
+    ```html
     ➜ ./r34gif-word-converter -f html git
     <div align="center" style="width:100%">
      	<img src="https://rule34.xxx/counter/0.gif"/>
