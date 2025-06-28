@@ -43,14 +43,14 @@ impl MappingType {
     }
 }
 
-/// Convert sequence of mappings to html url S
+/// Convert sequence of mappings to html url sequence
 pub fn to_html<'a>(input: impl Iterator<Item = &'static str> + 'a) -> String {
     let mut html = String::with_capacity(512);
 
-    html.push_str(r#"<div align="center" style="width:100%">"#);
+    html.push_str("<div align=\"center\" style=\"width:100%\">\n");
 
     for url in input {
-        html.push_str(format!(r#"<img src="{}"/>"#, url).as_str());
+        html.push_str(format!("\t<img src=\"{}\"/>\n", url).as_str());
     }
     html.push_str("</div>");
 

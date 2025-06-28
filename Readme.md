@@ -46,7 +46,57 @@ CLI tool that converts a word into a series of GIF links.
   -
     ```
     ➜ ./r34gif-word-converter -f html git
-    <div align="center" style="width:100%"><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/0.gif"/></div>
+    <div align="center" style="width:100%">
+     	<img src="https://rule34.xxx/counter/0.gif"/>
+     	<img src="https://rule34.xxx/counter/1.gif"/>
+     	<img src="https://rule34.xxx/counter/1.gif"/>
+     	<img src="https://rule34.xxx/counter/0.gif"/>
+     	<img src="https://rule34.xxx/counter/0.gif"/>
+     	<img src="https://rule34.xxx/counter/1.gif"/>
+     	<img src="https://rule34.xxx/counter/1.gif"/>
+     	<img src="https://rule34.xxx/counter/1.gif"/>
+     	<img src="https://rule34.xxx/counter/0.gif"/>
+     	<img src="https://rule34.xxx/counter/1.gif"/>
+     	<img src="https://rule34.xxx/counter/1.gif"/>
+     	<img src="https://rule34.xxx/counter/0.gif"/>
+     	<img src="https://rule34.xxx/counter/1.gif"/>
+     	<img src="https://rule34.xxx/counter/0.gif"/>
+     	<img src="https://rule34.xxx/counter/0.gif"/>
+     	<img src="https://rule34.xxx/counter/1.gif"/>
+     	<img src="https://rule34.xxx/counter/0.gif"/>
+     	<img src="https://rule34.xxx/counter/1.gif"/>
+     	<img src="https://rule34.xxx/counter/1.gif"/>
+     	<img src="https://rule34.xxx/counter/1.gif"/>
+     	<img src="https://rule34.xxx/counter/0.gif"/>
+     	<img src="https://rule34.xxx/counter/1.gif"/>
+     	<img src="https://rule34.xxx/counter/0.gif"/>
+     	<img src="https://rule34.xxx/counter/0.gif"/>
+    </div>
     ```
 
-<div align="center" style="width:100%"><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/0.gif"/></div>
+<div align="center" style="width:100%">
+	<img src="https://rule34.xxx/counter/0.gif"/>
+	<img src="https://rule34.xxx/counter/1.gif"/>
+	<img src="https://rule34.xxx/counter/1.gif"/>
+	<img src="https://rule34.xxx/counter/1.gif"/>
+	<img src="https://rule34.xxx/counter/0.gif"/>
+	<img src="https://rule34.xxx/counter/0.gif"/>
+	<img src="https://rule34.xxx/counter/1.gif"/>
+	<img src="https://rule34.xxx/counter/0.gif"/>
+	<img src="https://rule34.xxx/counter/0.gif"/>
+	<img src="https://rule34.xxx/counter/0.gif"/>
+	<img src="https://rule34.xxx/counter/1.gif"/>
+	<img src="https://rule34.xxx/counter/1.gif"/>
+	<img src="https://rule34.xxx/counter/0.gif"/>
+	<img src="https://rule34.xxx/counter/0.gif"/>
+	<img src="https://rule34.xxx/counter/1.gif"/>
+	<img src="https://rule34.xxx/counter/1.gif"/>
+	<img src="https://rule34.xxx/counter/0.gif"/>
+	<img src="https://rule34.xxx/counter/0.gif"/>
+	<img src="https://rule34.xxx/counter/1.gif"/>
+	<img src="https://rule34.xxx/counter/1.gif"/>
+	<img src="https://rule34.xxx/counter/0.gif"/>
+	<img src="https://rule34.xxx/counter/1.gif"/>
+	<img src="https://rule34.xxx/counter/0.gif"/>
+	<img src="https://rule34.xxx/counter/0.gif"/>
+</div>
