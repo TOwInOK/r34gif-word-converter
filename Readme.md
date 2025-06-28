@@ -74,6 +74,12 @@ CLI tool that converts a word into a series of GIF links.
     </div>
     ```
 
+## How to run downloaded file on macos
+```sh
+xattr -rd com.apple.quarantine name_of_file
+./name_of_file
+```
+
 <div align="center" style="width:100%">
 	<img src="https://rule34.xxx/counter/0.gif"/>
 	<img src="https://rule34.xxx/counter/1.gif"/>
